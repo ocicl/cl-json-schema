@@ -1,0 +1,10 @@
+* cl-json-schema
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/notmgsk/cl-json-schema.git   |
+| commit  | 6a1c6a0  |
+| systems | cl-json-schema |
+|---------+-------------------------------------------|
+
